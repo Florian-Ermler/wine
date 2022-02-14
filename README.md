@@ -1,6 +1,6 @@
-## Präsentation RESTful-Dienste
+# Präsentation RESTful-Dienste
 
-# von Tristan Schwarz und Florian Ermler
+## von Tristan Schwarz und Florian Ermler
 
 Diese Projekt beinhaltet ein auf Nodejs basierendes REST-API Backend
 und
